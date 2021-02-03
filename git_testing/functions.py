@@ -1,3 +1,6 @@
+author = 'Stas'
+
+
 def world():
-    print("Hello, World!")
+    print(f"Hello, World! This is {author}!")
 
