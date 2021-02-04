@@ -10,6 +10,8 @@ def world2():
 def func1():
     var1 = 5
     var2 = 6
+    var1 = var1 + 1
+    var2 = var2 + 1
     print(inc_and_sum(var1,var2))
 
 def func2():
