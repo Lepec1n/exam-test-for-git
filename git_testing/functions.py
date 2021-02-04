@@ -10,7 +10,7 @@ def world2():
 def func1():
     var1 = 5
     var2 = 6
-    var1 = var1 + 1
-    var2 = var2 + 1
+    var1 = var1 + 2
+    var2 = var2 + 2
     print(var1+var2)
 
