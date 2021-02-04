@@ -1,4 +1,4 @@
 import functions
 
-functions.world()
-
+#functions.world()
+functions.func1()
