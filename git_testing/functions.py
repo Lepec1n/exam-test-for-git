@@ -1,4 +1,4 @@
-author = 'Stas'
+author = 'Kseniya'
 
 
 def world():
